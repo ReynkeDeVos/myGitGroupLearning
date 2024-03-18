@@ -29,6 +29,7 @@ body {
 .header {
   border: 1px solid black;
   grid-area: 1 / 1 / 2 / 3;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
 .main {
   border: 1px solid red;
